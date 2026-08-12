@@ -4,16 +4,17 @@ Submitted by 108784
 
 
 
-## Introduction to Pandas DataFrames â€“ Replicating an article in Markdown
+## Introduction to Pandas DataFrames - Replicating an article in Markdown
 
 
 
-- **Pandas.ipynb** â€“ Jupyter Notebook mit dem nachgebauten Pandas-Artikel inkl. ausgefÃ¼hrtem Code und Ausgaben
+- **Pandas.ipynb** - Jupyter Notebook mit dem nachgebauten Pandas-Artikel inkl. ausgefuehrtem Code und Ausgaben
 
-- **Pandas.webp** â€“ Titelbild des Artikels, eingebunden im Notebook
+- **Pandas.webp** - Titelbild des Artikels, eingebunden im Notebook
 
-- **dist/Pandas.html** â€“ HTML-Export des finalen Notebooks zur lokalen Ansicht ohne Jupyter
+- **dist/Pandas.html** - HTML-Export des finalen Notebooks zur lokalen Ansicht ohne Jupyter
 
-- **dist/Pandas.webp** â€“ Kopie des Bildes, damit es im HTML-Export korrekt angezeigt wird
+- **dist/Pandas.webp** - Kopie des Bildes, damit es im HTML-Export korrekt angezeigt wird
+
 
 
